@@ -1,1 +1,1 @@
-console.log("Student Portal API v1");
+console.log("Student Portal API v2");
