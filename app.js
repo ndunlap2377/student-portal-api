@@ -1,1 +1,1 @@
-console.log("Student Portal API v2");
+console.log("Student Portal API - Production Ready");
