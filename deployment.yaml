@@ -1,2 +1,2 @@
-replicas: 1
+replicas: 3
 image: student-portal:v1
