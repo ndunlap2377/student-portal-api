@@ -7,3 +7,7 @@ function login(username, password) {
 function dashboard() {
     return "Student Dashboard";
 }
+
+function profile() {
+    return "Student Profile";
+}
